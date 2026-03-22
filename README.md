@@ -16,24 +16,15 @@
 
 🛠️ Tech Stack
 Languages & Tools
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Platforms & Skills
-Show Image
-Show Image
-Show Image
+Python   SQL / MySQL   Power BI   Tableau   Advanced Excel   Jupyter Notebook   Pandas   NumPy   Matplotlib
+Skills
+DAX   Power Query   Data Modeling   ETL   EDA   A/B Testing   Cohort Analysis   Data Storytelling   GenAI   Palantir Foundry   PySpark
 
 📂 Featured Projects
 📉 Customer Churn Analysis Dashboard (Power BI)
 
 Built an end-to-end churn analysis dashboard using the IBM Telco dataset for Saiket Systems internship.
-KPIs: Churn Rate, Revenue at Risk, Contract Type Breakdown, Retention Segments
+KPIs: Churn Rate · Revenue at Risk · Contract Type Breakdown · Retention Segments
 Tools: Power BI · DAX · Data Modeling · Power Query
 
 
@@ -46,31 +37,25 @@ Tools: Palantir Foundry · PySpark · Contour · Pipeline Builder · AIP Logic
 📊 Virtual Experience Projects (Forage)
 
 Data analytics simulations for Deloitte, Tata Group, Quantium, and JPMorgan Chase
-Focus areas: Data visualization, business insights, quantitative research, and EDA
+Focus: Data visualization · Business insights · Quantitative research · EDA
 Tools: Python · Excel · Tableau · SQL
 
 
 📜 Certifications
-CertificateProviderHoursData Analyst BootcampUdemy89 hrsPython 100 Days of CodeUdemy56.5 hrsPower BI BootcampUdemy17 hrsAdvanced SQLUdemy10.5 hrsExcel Beginner to AdvancedUdemy22 hrsGenAI BootcampGrowth School 2026—Palantir Foundry FoundationsAnalyticoreMar 2026
+CertificateProviderHours✅ Data Analyst BootcampUdemy89 hrs✅ Python 100 Days of CodeUdemy56.5 hrs✅ Power BI BootcampUdemy17 hrs✅ Advanced SQLUdemy10.5 hrs✅ Excel Beginner to AdvancedUdemy22 hrs✅ GenAI BootcampGrowth School 2026—✅ Palantir Foundry FoundationsAnalyticoreMar 2026
 
 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BLACKstORMRAO&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLACKstORMRAO&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKstORMRAO&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/kashish-yadav-6b73782a3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kashishrao68@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+💼 LinkedIn
+📧 kashishrao68@gmail.com
+📍 Gurgaon, Haryana, India
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BLACKstORMRAO&label=Profile+Views&color=00d4ff&style=flat" alt="profile views" />
