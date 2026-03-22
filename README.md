@@ -7,42 +7,33 @@
 🧑‍💻 About Me
 
 🎓 B.Tech in AI & Robotics — World College of Technology & Management, Gurgaon (Expected 2027)
-📊 Data Analyst with hands-on experience in Power BI, Python, SQL, and Palantir Foundry
+📊 Hands-on experience in Power BI, Python, SQL, and Palantir Foundry
 🏢 Currently building a Customer Churn Analysis Dashboard at Saiket Systems
 🌱 Completed Palantir Foundry Foundations (Analyticore Program, Mar 2026)
 🎯 Goal: Land a Data Analyst Internship (Remote | 2 PM – 11 PM IST)
-📫 Reach me at: kashishrao68@gmail.com
+📫 kashishrao68@gmail.com
 
 
 🛠️ Tech Stack
-Languages & Tools
-Python   SQL / MySQL   Power BI   Tableau   Advanced Excel   Jupyter Notebook   Pandas   NumPy   Matplotlib
-Skills
-DAX   Power Query   Data Modeling   ETL   EDA   A/B Testing   Cohort Analysis   Data Storytelling   GenAI   Palantir Foundry   PySpark
+CategoryToolsLanguagesPython · SQL · MySQLBI & VizPower BI · Tableau · Advanced ExcelPython LibsPandas · NumPy · MatplotlibBI SkillsDAX · Power Query · Data Modeling · ETLAnalyticsEDA · A/B Testing · Cohort Analysis · Data StorytellingPlatformsPalantir Foundry · PySpark · Jupyter Notebook · GenAI
 
 📂 Featured Projects
-📉 Customer Churn Analysis Dashboard (Power BI)
-
-Built an end-to-end churn analysis dashboard using the IBM Telco dataset for Saiket Systems internship.
+📉 Customer Churn Analysis Dashboard (Power BI · Saiket Systems)
+Built an end-to-end churn analysis dashboard using the IBM Telco dataset.
 KPIs: Churn Rate · Revenue at Risk · Contract Type Breakdown · Retention Segments
 Tools: Power BI · DAX · Data Modeling · Power Query
 
-
 🏭 Palantir Foundry — Shipment Operations Centre
-
 Completed Palantir Foundry Foundations (Analyticore) — built an Ontology with 7 object types, Workshop app, and AIP Logic for order priority classification using Gemini 2.5 Pro.
 Tools: Palantir Foundry · PySpark · Contour · Pipeline Builder · AIP Logic
 
-
 📊 Virtual Experience Projects (Forage)
-
-Data analytics simulations for Deloitte, Tata Group, Quantium, and JPMorgan Chase
+Data analytics simulations for Deloitte, Tata Group, Quantium, and JPMorgan Chase.
 Focus: Data visualization · Business insights · Quantitative research · EDA
 Tools: Python · Excel · Tableau · SQL
 
-
 📜 Certifications
-CertificateProviderHours✅ Data Analyst BootcampUdemy89 hrs✅ Python 100 Days of CodeUdemy56.5 hrs✅ Power BI BootcampUdemy17 hrs✅ Advanced SQLUdemy10.5 hrs✅ Excel Beginner to AdvancedUdemy22 hrs✅ GenAI BootcampGrowth School 2026—✅ Palantir Foundry FoundationsAnalyticoreMar 2026
+CertificateProviderHoursData Analyst BootcampUdemy89 hrsPython 100 Days of CodeUdemy56.5 hrsPower BI BootcampUdemy17 hrsAdvanced SQLUdemy10.5 hrsExcel Beginner to AdvancedUdemy22 hrsGenAI BootcampGrowth School 2026—Palantir Foundry FoundationsAnalyticoreMar 2026
 
 📈 GitHub Stats
 <p align="center">
@@ -51,13 +42,10 @@ CertificateProviderHours✅ Data Analyst BootcampUdemy89 hrs✅ Python 100 Days 
 </p>
 
 🌐 Connect With Me
-
-💼 LinkedIn
-📧 kashishrao68@gmail.com
-📍 Gurgaon, Haryana, India
-
+Show Image
+Show Image
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BLACKstORMRAO&label=Profile+Views&color=00d4ff&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=BLACKstORMRAO&label=Profile+Views&color=00d4ff&style=flat" />
 </p>
-<p align="center">⚡ <i>"Data is the new oil — I'm the refinery."</i></p>
+<p align="center"><i>⚡ "Data is the new oil — I'm the refinery."</i></p>
