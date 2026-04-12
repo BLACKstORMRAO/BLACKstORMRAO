@@ -61,7 +61,7 @@ Tools: Python · Excel · Tableau · SQL
 
 <h3>📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BLACKstORMRAO&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kashishydvv0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLACKstORMRAO&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
