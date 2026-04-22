@@ -11,7 +11,7 @@
 📊 Hands-on experience in Power BI, Python, SQL, and Palantir Foundry
 🏢 Currently building a Customer Churn Analysis Dashboard at Saiket Systems
 🌱 Completed Palantir Foundry Foundations (Analyticore Program, Mar 2026)
-🎯 Goal: Land a Data Analyst Internship 
+🎯 Goal: Make Carrier in Data  
 📫 kashishrao68@gmail.com
 
 
